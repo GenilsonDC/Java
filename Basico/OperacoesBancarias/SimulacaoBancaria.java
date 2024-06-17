@@ -1,4 +1,4 @@
-package OperacoesBancarias;
+package Basico.OperacoesBancarias;
 
 import java.util.Scanner;
 
